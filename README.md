@@ -2,9 +2,9 @@
 
 Problem: https://datahack.analyticsvidhya.com/contest/practice-problem-age-detection/
 
-Approach Used: Transfer Learning
-Pre-trained Model Used: VGG19
-Accuracy Achieved: 89.90%
+- Approach Used: Transfer Learning
+- Pre-trained Model Used: VGG19
+- Accuracy Achieved: 89.90%
 
 Key Points:
 
@@ -16,7 +16,9 @@ Key Points:
 -	The model was trained for 50 epochs with a validation split of 20%.
 
 References:
+
 [1] Top 4 Pre-Trained Models for Image Classification with Python Code
 https://www.analyticsvidhya.com/blog/2017/06/hands-on-with-deep-learning-solution-for-age-detection-practice-problem/?utm_source=practice-problem-age-detection&utm_medium=Datahack
+
 [2] Benchmark solution for this Problem
 https://www.analyticsvidhya.com/blog/2017/06/hands-on-with-deep-learning-solution-for-age-detection-practice-problem/?utm_source=practice-problem-age-detection&utm_medium=Datahack
